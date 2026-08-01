@@ -1,2 +1,2 @@
 # terraform-aws-webserver
-A reusable AWS infrastructure template built with Terraform, demonstrating Infrastructure as Code (IaC), modular design, and environment separation for cloud-native applications.
+A reusable AWS infrastructure template prototype.
